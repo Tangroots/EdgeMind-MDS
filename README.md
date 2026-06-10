@@ -23,8 +23,8 @@ This dataset consists of **synchronized video frames and vibration sensor signal
 
 ## Dataset Access
 Some data files are stored in the **`dataset/`** folder of this repository:
-- `dataset/sensers_npz/`: Contains vibration sensor signals in `.npz` format.
-- `dataset/videos_npy/`: Contains preprocessed video frame sequences in `.npy` format.
+- [`dataset/sensers_npz/`](dataset/sensers_npz/): Contains vibration sensor signals in `.npz` format.
+- [`dataset/videos_npy/`](dataset/videos_npy/): Contains preprocessed video frame sequences in `.npy` format.
 
 ## Dataset Overview
 ### Data Modalities
