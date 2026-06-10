@@ -7,7 +7,7 @@ EdgeMind-MDS is a real-world multimodal surveillance dataset constructed for the
 This dataset consists of **synchronized video frames and vibration sensor signals**, designed for two core tasks: human behavior analysis and camera state diagnosis. Data is collected in typical edge surveillance scenarios including hallways, colonnades and entrance lobbies. We also conducted experiments to explore the influence of different sensor installation structures. We evaluated the model's performance under the original floor tile setup (O) and three alternative supporting structures: concrete wall (C), hollow metal pole (M), and wooden structure (W).
 
 ## Dataset Access
-All data files are stored in the **`dataset/`** folder of this repository.
+Some data files are stored in the **`dataset/`** folder of this repository.
 
 ## Dataset Overview
 ### Data Modalities
